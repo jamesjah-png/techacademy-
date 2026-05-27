@@ -1,2 +1,2 @@
 # techacademy-
-The Tech Academy was built to enable students and tech lover to learn true tech.
+The Tech Academy was created to help students and tech lover to study online.our website is professional and user friendly 
